@@ -8,15 +8,15 @@ The goal of this project is to explore how artificial intelligence can bring old
 
 ### Original Image
 
-![Original Image](sample_input.png)
+![Original Image](images/sample_input.png)
 
 ### Colorized Output
 
-![Colorized Output](sample_output.png)
+![Colorized Output](images/sample_output.png)
 
 ### Side-by-Side Comparison
 
-![Comparison](result_comparison.png)
+![Comparison](images/result_comparison.png)
 
 ## How It Works
 
