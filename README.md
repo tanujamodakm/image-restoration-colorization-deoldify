@@ -48,3 +48,8 @@ https://github.com/mmaithani/DeOldify
 ## License
 
 This project is licensed under the MIT License.
+
+## Author
+
+**Tanuja Modak**
+Data Science Undergraduate, UMIT
