@@ -52,4 +52,3 @@ This project is licensed under the MIT License.
 ## Author
 
 **Tanuja Modak**
-Data Science Undergraduate, UMIT
